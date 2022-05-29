@@ -1,0 +1,6 @@
+FROM gcr.io/distroless/base-debian11 AS production-stage
+WORKDIR /
+COPY server /
+USER nonroot:nonroot
+EXPOSE 9090
+CMD ["/server"]
