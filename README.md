@@ -1,7 +1,7 @@
 # server
 
 [![Build Status](https://github.com/issuerail/server/workflows/ci/badge.svg?branch=main&event=push)](https://github.com/issuerail/server/actions?query=workflow%3Aci)
-[![codecov](https://codecov.io/gh/issuerail/server/branch/main/graph/badge.svg?token=El8oiyaIsD)](https://codecov.io/gh/issuerail/server)
+[![codecov](https://codecov.io/gh/issuerail/server/branch/main/graph/badge.svg?token=KP0Z9F5BN7)](https://codecov.io/gh/issuerail/server)
 [![Go Report Card](https://goreportcard.com/badge/github.com/issuerail/server)](https://goreportcard.com/report/github.com/issuerail/server)
 [![License](https://img.shields.io/github/license/issuerail/server.svg)](https://github.com/issuerail/server/blob/main/LICENSE)
 [![Tag](https://img.shields.io/github/tag/issuerail/server.svg)](https://github.com/issuerail/server/tags)
